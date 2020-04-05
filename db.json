@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "New stream",
+      "description": "This is a new stream",
+      "userId": "105307912442931072015",
+      "id": 7
+    },
+    {
+      "title": "Editing title",
+      "description": "Streaming my screen",
+      "userId": "105307912442931072015",
+      "id": 8
+    },
+    {
+      "title": "Logged in",
+      "description": "OAuth as authentication ",
+      "userId": "105307912442931072015",
+      "id": 9
+    },
+    {
+      "title": "I have the life of God in me",
+      "description": "I am dead to sin and alive unto God",
+      "userId": "106171479319425020281",
+      "id": 10
+    }
+  ]
+}
